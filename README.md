@@ -72,10 +72,4 @@ An interactive Power BI dashboard built to analyze pizza shop sales performance,
 ---
 
 ## 👨‍💻 Author
-
-**Muhammed Sinan**
-
----
-
-## 👨‍💻 Author
 Muhammed Sinan
