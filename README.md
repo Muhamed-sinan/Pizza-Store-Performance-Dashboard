@@ -1,29 +1,36 @@
 # 🍕 Pizza Sales Performance Dashboard
 
-## 📌 Overview
-This Power BI dashboard analyzes pizza shop sales performance using interactive visualizations and business insights.
+An interactive Power BI dashboard built to analyze pizza shop sales performance, revenue trends, customer ordering behavior, and product insights.
 
 ---
 
-## 📊 Key Metrics
-- Total Revenue: 817.86K
-- Total Orders: 21K
-- Total Quantity Sold: 50K
-- Avg Revenue Per Pizza: 16.50
+## 📊 Dashboard Highlights
+
+- 💰 Total Revenue Analysis
+- 🛒 Total Orders Tracking
+- 🍕 Quantity Sold Overview
+- 📈 Revenue by Pizza Category
+- 📏 Revenue by Pizza Size
+- ⏰ Hourly Sales Trend
+- 📅 Monthly Revenue Analysis
+- 🥇 Top Selling Pizzas
+- 📌 Orders by Day Name
 
 ---
 
-## 📈 Dashboard Insights
-- Revenue analysis by pizza category
-- Revenue distribution by pizza size
-- Monthly revenue trends
-- Hourly sales performance
-- Best-selling pizza types
-- Order count by weekdays
+## 🚀 Key Metrics
+
+| Metric | Value |
+|--------|--------|
+| Avg Revenue Per Pizza | 16.50 |
+| Total Orders | 21K |
+| Total Quantity Sold | 50K |
+| Total Revenue | 817.86K |
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
+
 - Power BI
 - DAX
 - Power Query
@@ -31,33 +38,42 @@ This Power BI dashboard analyzes pizza shop sales performance using interactive 
 
 ---
 
-## 🎯 Features
-- Interactive filters
-- KPI cards
-- Modern dashboard design
-- Business performance tracking
-- Dynamic visualizations
+## 🎯 Dashboard Features
 
----
-
-## 📂 Files Included
-- Pizza Sales Dashboard (.pbix)
-- Dataset files
-- Dashboard Screenshot
-
----
-
-## 🚀 Business Benefits
-This dashboard helps identify:
-- Top-selling pizzas
-- Peak sales hours
-- Customer ordering trends
-- Revenue growth opportunities
+- Interactive Filters & Slicers
+- KPI Cards
+- Dynamic Charts
+- Business Insights
+- User-Friendly Design
 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](pizza dashboard.png)
+
+![Pizza Dashboard](pizza dashboard.png)
+
+---
+
+## 📈 Business Insights
+
+- Large size pizzas generated the highest revenue.
+- Friday has the highest number of orders.
+- Peak sales occur during afternoon and evening hours.
+- Classic category pizzas contribute major revenue.
+
+---
+
+## 📂 Project Files
+
+- `Pizza Sales Dashboard.pbix`
+- `Dataset Files`
+- `Dashboard Screenshot`
+
+---
+
+## 👨‍💻 Author
+
+**Muhammed Sinan**
 
 ---
 
